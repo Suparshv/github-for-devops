@@ -8,3 +8,8 @@ git remote set-url origin https://personalaccesstoken@github.com/Suparshv/github
 git push origin master
 git clone (url of repo.git)
 adding new changes below
+git pull origin master
+git branch(lists all branches in current repo)
+git branch branchname(creates a new branch in current repo)
+git switch/checkout dev(switched to branch dev)
+git fetch(all branches in github comes in local machine)
