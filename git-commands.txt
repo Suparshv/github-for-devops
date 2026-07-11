@@ -7,3 +7,4 @@ git remote add origin (url of repository.git)
 git remote set-url origin https://personalaccesstoken@github.com/Suparshv/github-for-devops.git
 git push origin master
 git clone (url of repo.git)
+adding new changes below
