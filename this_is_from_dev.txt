@@ -1,1 +1,2 @@
 this file is from dev
+trying to commit changes to dev branch and then merge it to master branch.after that pull it local machine.
