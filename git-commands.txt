@@ -1,0 +1,5 @@
+git init
+git status
+git add filename or . for every file in folder
+git restore filename same here
+git commit -m "message"
